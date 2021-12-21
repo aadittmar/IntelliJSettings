@@ -3,7 +3,7 @@
     <option name="serverSettings">
       <SpaceServerSettings>
         <option name="enabled" value="true" />
-        <option name="server" value="https://aadittmar.jetbrains.space" />
+        <option name="server" value="https://providence.jetbrains.space" />
       </SpaceServerSettings>
     </option>
   </component>
