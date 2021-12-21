@@ -1,5 +1,131 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="PluginDeployActions" is_group="true" action_type="-1" position="58">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.OpenStringResourceEditor" is_action="true" action_type="-1" position="57">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Library.Properties" is_group="true" action_type="-1" position="56">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddAntBuildFile" is_action="true" action_type="-1" position="55">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XPathView.XSLT.Associations" is_group="true" action_type="-1" position="54">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PackageFile" is_action="true" action_type="-1" position="53">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.ConvertSvgToPng" is_action="true" action_type="-1" position="52">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.EditExternally" is_action="true" action_type="-1" position="51">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConvertFromWebp" is_action="true" action_type="-1" position="50">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConvertToWebp" is_action="true" action_type="-1" position="49">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.ConvertToNinePatch" is_action="true" action_type="-1" position="48">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Maven.GlobalProjectMenu" is_group="true" action_type="-1" position="47">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Maven.AddFileAsMavenProject" is_action="true" action_type="-1" position="46">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Github.Create.Gist" is_action="true" action_type="-1" position="45">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ConvertJavaToKotlinGroup" is_group="true" action_type="-1" position="44">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenInSceneBuilder" is_action="true" action_type="-1" position="43">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CombinePropertiesFilesAction" is_action="true" action_type="-1" position="42">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DissociateResourceBundleAction" is_action="true" action_type="-1" position="41">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateCopyright" is_action="true" action_type="-1" position="40">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.SetBackgroundImage" is_action="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="38">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuSettingsGroup" is_group="true" action_type="-1" position="37">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuSettingsGroup" is_group="true" action_type="-1" position="37">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="36">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalToolsGroup" is_group="true" action_type="-1" position="35">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="DevkitNewActions" is_group="true" action_type="-1" position="28">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -18,10 +144,22 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewXmlDescriptor" is_group="true" action_type="-1" position="25">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuRunGroup" is_group="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CreateEditorConfigFile" is_action="true" action_type="-1" position="24">
@@ -30,10 +168,27 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CreateResourceBundle" is_action="true" action_type="-1" position="23">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuModifyGroup" is_group="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="GuiDesigner.NewActions" is_group="true" action_type="-1" position="22">
@@ -42,10 +197,27 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="22">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GuiDesigner.AddComponent" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewFromTemplate" is_group="true" action_type="-1" position="21">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="GuiDesigner.AddComponent" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Kotlin.NewWorksheet" is_action="true" action_type="-1" position="20">
@@ -54,10 +226,27 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ResourceExplorer.show" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="popup@ExpandableBookmarkContextMenu" is_group="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Kotlin.NewScript" is_action="true" action_type="-1" position="19">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="popup@ExpandableBookmarkContextMenu" is_group="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewXml" is_group="true" action_type="-1" position="18">
@@ -66,10 +255,26 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CleanPyc" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewPythonFile" is_action="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CleanPyc" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuRefactoringGroup" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="FileTemplateSeparatorGroup" is_group="true" action_type="-1" position="16">
@@ -78,16 +283,49 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ProjectViewPopupMenuRefactoringGroup" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewJavaSpecialFile" is_group="true" action_type="-1" position="15">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InspectCodeActionInPopupMenus" is_group="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="JavaFxCreateActions" is_group="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InspectCodeActionInPopupMenus" is_group="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AnalyzeMenu" is_group="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="LegacyNewAndroidComponent" is_action="true" action_type="-1" position="12">
@@ -120,10 +358,33 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ChangesView.ApplyPatch" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewEditSource" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Android.CreateSampleDataDirectory" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CutCopyPasteGroup" is_group="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExternalCppProject" is_group="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.CreateResourceDirectory" is_action="true" action_type="-1" position="5">
@@ -132,10 +393,27 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ExternalCppProject" is_group="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RestoreDefaultExtensionScripts" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="AddNewPropertyFile" is_action="true" action_type="-1" position="3">
@@ -144,16 +422,46 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RestoreDefaultExtensionScripts" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkRootGroup" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Settings Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Kotlin.NewFile" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="AssociateWithFileType" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddFrameworkSupport" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Groovy.NewClass" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddFrameworkSupport" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewGroup1" is_group="true" action_type="-1" position="0">
@@ -166,6 +474,19 @@
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MarkRootGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Settings Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuSettingsGroup" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewDir" is_action="true" action_type="1" position="3">
